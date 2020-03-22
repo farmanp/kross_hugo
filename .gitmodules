@@ -1,0 +1,3 @@
+[submodule "exampleSite/themes/kross-hugo"]
+	path = exampleSite/themes/kross-hugo
+	url = https://github.com/themefisher/kross-hugo
