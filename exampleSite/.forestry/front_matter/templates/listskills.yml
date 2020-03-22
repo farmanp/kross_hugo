@@ -1,0 +1,198 @@
+---
+label: ListSkills
+hide_body: true
+fields:
+- type: field_group
+  name: banner
+  label: banner
+  fields:
+  - type: text
+    name: title
+    label: title
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: boolean
+      name: enable
+      label: enable
+    - type: text
+      name: label
+      label: label
+    - type: text
+      name: URL
+      label: URL
+- type: field_group
+  name: skill
+  label: skill
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: progress
+      label: progress
+    - type: text
+      name: color
+      label: color
+- type: field_group
+  name: experience
+  label: experience
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: file
+      name: logo
+      label: logo
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: company
+      label: company
+    - type: text
+      name: duration
+      label: duration
+- type: field_group
+  name: education
+  label: education
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: year
+      label: year
+    - type: text
+      name: academy
+      label: academy
+- type: field_group
+  name: service
+  label: service
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: icon
+      label: icon
+    - type: textarea
+      name: content
+      label: content
+    - type: boolean
+      name: highlighted
+      label: highlighted
+- type: field_group
+  name: portfolio
+  label: portfolio
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: number
+    name: item_show
+    label: item_show
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: file
+      name: image
+      label: image
+    - type: text
+      name: designation
+      label: designation
+    - type: textarea
+      name: content
+      label: content
+- type: field_group
+  name: clients_logo_slider
+  label: clients_logo_slider
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: item
+    label: item
+    fields:
+    - type: file
+      name: logo
+      label: logo
+    - type: text
+      name: URL
+      label: URL
+- type: field_group
+  name: blog
+  label: blog
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
