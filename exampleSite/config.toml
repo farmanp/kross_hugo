@@ -54,8 +54,8 @@ preloader = ""
 URL = "https://github.com/farmanp"
 icon = "ti-github"
 [[params.social]]
-URL = "#"
-icon = "ti-instagram"
+URL = "https://www.linkedin.com/in/farmanp/"
+icon = "ti-linkedin"
 [[params.social]]
 URL = "#"
 icon = "ti-dribbble"
