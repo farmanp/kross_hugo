@@ -70,8 +70,7 @@ service:
     highlighted: false
   - title: Developers
     icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: true
   - title: Learners
     icon: ti-panel
