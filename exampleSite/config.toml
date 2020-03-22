@@ -57,8 +57,5 @@ icon = "ti-github"
 URL = "https://www.linkedin.com/in/farmanp/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://www.twitter.com/farmanp"
 icon = "ti-twitter-alt"
