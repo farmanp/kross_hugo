@@ -1,4 +1,10 @@
 ---
 label: Skill Details
 hide_body: true
-fields: []
+fields:
+- name: skill
+  type: text
+  config:
+    required: false
+  label: Skill
+  description: What are your skills
