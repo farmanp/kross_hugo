@@ -68,7 +68,7 @@ service:
     content: ''
     highlighted: false
 portfolio:
-  enable: true
+  enable: false
   title: Portfolio
   item_show: "5"
 testimonial:
