@@ -3,11 +3,11 @@ banner:
   title: I’m <br> Farman <br> Software Developer
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'My name is Farman Pirzada and I have been doing software development for
+    5 years. I have worked in several industries such as engineering firms, health
+    and wellness studios, and financial institutions to name a few. What drives me
+    is creating experiences where the user feels empowered to self-service, better
+    decision making, and being more productive. '
   button:
     enable: true
     label: know more
