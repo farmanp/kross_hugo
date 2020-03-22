@@ -9,7 +9,7 @@ about:
     is creating experiences where the user feels empowered to self-service, better
     decision making, and being more productive. '
   button:
-    enable: true
+    enable: false
     label: know more
     URL: about
 skill:
