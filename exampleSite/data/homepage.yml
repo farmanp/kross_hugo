@@ -66,8 +66,7 @@ service:
   item:
   - title: Consumers
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: ''
     highlighted: false
   - title: Developers
     icon: ti-vector
