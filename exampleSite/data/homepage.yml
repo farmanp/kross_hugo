@@ -71,7 +71,7 @@ service:
   - title: Developers
     icon: ti-vector
     content: ''
-    highlighted: true
+    highlighted: false
   - title: Learners
     icon: ti-panel
     content: ''
