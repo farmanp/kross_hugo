@@ -17,7 +17,7 @@ skill:
   title: Skills
   item:
   - title: Web Design
-    progress: 90%
+    progress: ti-github
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
