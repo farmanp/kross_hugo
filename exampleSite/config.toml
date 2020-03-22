@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Farman | Software Developer"
 [[menu.main]]
 URL = "about"
 name = "About"
