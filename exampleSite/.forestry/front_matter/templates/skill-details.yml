@@ -8,3 +8,5 @@ fields:
     required: false
   label: Skill
   description: What are your skills
+pages:
+- exampleSite/data/skills.yml
