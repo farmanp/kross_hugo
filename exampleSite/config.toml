@@ -1,4 +1,4 @@
-baseURL = "farmanp.github.io"
+baseURL = "farmanp.netlify.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
